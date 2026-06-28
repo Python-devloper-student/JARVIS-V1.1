@@ -5,5 +5,5 @@ sounddevice
 numpy
 requests
 pyttsx3
-pySerial
+pyserial
 ```
