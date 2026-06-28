@@ -87,9 +87,9 @@ Any command that is not recognized is automatically sent to the local AI model.
 ```
 Jarvis/
 │
-├── jarvis.py
+├── jarvis1.1.py
 ├── arduino/
-│   └── jarvis_display.ino
+│   └── jarvis_face.ino
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
