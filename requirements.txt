@@ -1,0 +1,9 @@
+```
+faster-whisper
+silero-vad
+sounddevice
+numpy
+requests
+pyttsx3
+pySerial
+```
